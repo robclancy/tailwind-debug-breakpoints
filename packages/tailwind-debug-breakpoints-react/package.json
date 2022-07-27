@@ -1,6 +1,6 @@
 {
   "name": "tailwind-debug-breakpoints-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add Tailwind breakpoints to the bottom right of the screen indicating which screen variant are active.",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
