@@ -1,0 +1,18 @@
+{
+  "name": "tailwind-debug-breakpoints",
+  "private": true,
+  "description": "Learn to to build react package",
+  "keywords": [],
+  "author": "Robclancy <robbo.clancy@gmail.com>",
+  "workspaces": [
+    "examples/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "lerna": "^5.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.0.2"
+  }
+}
